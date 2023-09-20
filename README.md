@@ -21,7 +21,10 @@ npm start //To start the server locally
 ```
 
 ## Usage
-Application is deployed using Heroku and can be accessed using below link, https://thetecblog-838e39cb2a3f.herokuapp.com
+Application is deployed using Heroku and can be accessed using below link, https://pwa-jate-4061a748ba48.herokuapp.com/
+
+
+![screenshot](./assets/images/screenshot.png)
 
 ## Credits
 https://webpack.js.org/configuration/
